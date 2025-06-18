@@ -74,3 +74,23 @@ Your getAverageRating function must return a number.
 
 Step 8
 Create a getTotalIngredients function that takes a single argument, representing an array with ingredients, and returns the number of ingredients from the array passed to the function.
+
+Step 9
+Create a getDifficultyLevel function that takes a number indicating the cooking time as a parameter.
+
+If the cooking time is less than or equal to 30, the function should return "easy". If it is less than or equal to 60, the function should return "medium". Otherwise, the function should return "hard".
+
+Step 10
+It's time to test each of the functions. You can use any of the recipes for this, but this tutorial will start with recipe1.
+
+Create three new variables: recipe1AverageRating, recipe1TotalIngredients, and recipe1DifficultyLevel. Assign them the values by calling the corresponding function for each variable and passing in the appropriate recipe1 property.
+
+Finally, log each variable to the console to see the results.
+
+Step 11
+You can now fill in each item of the recipes array with values for the averageRating, totalIngredients, and difficultyLevel properties.
+
+For now, access the averageRating, totalIngredients, and difficultyLevel of recipe1 and set them to the appropriate results of function calls and arguments.
+
+Step 12
+Repeat the process for the averageRating, totalIngredients, and difficultyLevel properties of recipe2.
