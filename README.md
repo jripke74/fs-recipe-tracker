@@ -94,3 +94,10 @@ For now, access the averageRating, totalIngredients, and difficultyLevel of reci
 
 Step 12
 Repeat the process for the averageRating, totalIngredients, and difficultyLevel properties of recipe2.
+
+Step 13
+The averageRating, totalIngredients, and difficultyLevel properties of recipe3 have been filled in for you.
+
+Now, log the recipes array to the console to see all its items filled with the updated values.
+
+With that, your recipes tracker project is complete.
